@@ -1,5 +1,5 @@
 # hello_world
-REpository for TLCL Hello world script
+##Repository for TLCL Hello world script
 
 This repo will be used to:
 * Learnabout git
